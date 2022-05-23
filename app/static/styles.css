@@ -1,5 +1,6 @@
 main {
     margin: 3rem;
+    margin-bottom: 10rem;
 }
 
 h1 {
@@ -34,6 +35,7 @@ em {
 }
 
 footer {
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
