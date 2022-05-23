@@ -33,6 +33,10 @@ em {
     }
 }
 
+#result_list {
+    margin-top: 1rem;
+}
+
 footer {
     position: fixed;
     bottom: 0;
