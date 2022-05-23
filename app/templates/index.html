@@ -83,8 +83,11 @@
                                 list_element.appendChild(pal_element);
                             }
                         }
+
+                        // If error occurred
                         else {
-                            count_element.innerHTML = '(ERRO 400)'
+                            count_element.innerHTML = '(ERRO 400)';
+                            list_element.innerHTML = '';
                         }
                     }
                 };
